@@ -4,5 +4,11 @@
     "name": "GamingCraft_hd",
     "level": 4,
     "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "935e779b-e08b-47be-93b5-2ce6341298b8",
+    "name": "Trainsa",
+    "level": 4,
+    "bypassesPlayerLimit": false
   }
 ]
